@@ -1,0 +1,16 @@
+E:\desktop\newpgm\NlogExamples\AddressBookSystem\AddressBookSystem\bin\Debug\net5.0\AddressBookSystem.exe
+E:\desktop\newpgm\NlogExamples\AddressBookSystem\AddressBookSystem\bin\Debug\net5.0\AddressBookSystem.deps.json
+E:\desktop\newpgm\NlogExamples\AddressBookSystem\AddressBookSystem\bin\Debug\net5.0\AddressBookSystem.runtimeconfig.json
+E:\desktop\newpgm\NlogExamples\AddressBookSystem\AddressBookSystem\bin\Debug\net5.0\AddressBookSystem.runtimeconfig.dev.json
+E:\desktop\newpgm\NlogExamples\AddressBookSystem\AddressBookSystem\bin\Debug\net5.0\AddressBookSystem.dll
+E:\desktop\newpgm\NlogExamples\AddressBookSystem\AddressBookSystem\bin\Debug\net5.0\AddressBookSystem.pdb
+E:\desktop\newpgm\NlogExamples\AddressBookSystem\AddressBookSystem\obj\Debug\net5.0\AddressBookSystem.csproj.AssemblyReference.cache
+E:\desktop\newpgm\NlogExamples\AddressBookSystem\AddressBookSystem\obj\Debug\net5.0\AddressBookSystem.GeneratedMSBuildEditorConfig.editorconfig
+E:\desktop\newpgm\NlogExamples\AddressBookSystem\AddressBookSystem\obj\Debug\net5.0\AddressBookSystem.AssemblyInfoInputs.cache
+E:\desktop\newpgm\NlogExamples\AddressBookSystem\AddressBookSystem\obj\Debug\net5.0\AddressBookSystem.AssemblyInfo.cs
+E:\desktop\newpgm\NlogExamples\AddressBookSystem\AddressBookSystem\obj\Debug\net5.0\AddressBookSystem.csproj.CoreCompileInputs.cache
+E:\desktop\newpgm\NlogExamples\AddressBookSystem\AddressBookSystem\obj\Debug\net5.0\AddressBookSystem.dll
+E:\desktop\newpgm\NlogExamples\AddressBookSystem\AddressBookSystem\obj\Debug\net5.0\refint\AddressBookSystem.dll
+E:\desktop\newpgm\NlogExamples\AddressBookSystem\AddressBookSystem\obj\Debug\net5.0\AddressBookSystem.pdb
+E:\desktop\newpgm\NlogExamples\AddressBookSystem\AddressBookSystem\obj\Debug\net5.0\AddressBookSystem.genruntimeconfig.cache
+E:\desktop\newpgm\NlogExamples\AddressBookSystem\AddressBookSystem\obj\Debug\net5.0\ref\AddressBookSystem.dll
